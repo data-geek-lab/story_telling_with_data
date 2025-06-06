@@ -1,0 +1,121 @@
+CustomerID,Name,Gender,Age,Country,Items Purchased,Category,Season,PurchaseAmount
+CUST1068,Fred Flintstone,Male,16,Australia,Mug,Toys,Spring,298.19
+CUST1071,SpongeBob SquarePants,Male,17,UK,Phone,Toys,Summer,402.93
+CUST1072,Pikachu,Female,17,UK,Phone,Clothing,Summer,448.14
+CUST1109,Patrick Star,Female,16,France,Mug,Clothing,Fall,247.14
+CUST1000,Johnny Bravo,Male,16,France,Toy Car,Clothing,Fall,359.44
+CUST1009,Jerry Mouse,Female,16,France,Shirt,Toys,Fall,229.23
+CUST1055,Johnny Bravo,Female,16,France,Phone,Home Decor,Fall,471.57
+CUST1058,Tom Cat,Female,16,USA,Phone,Toys,Summer,440.18
+CUST1077,Tom Cat,Male,30,Australia,Book,Electronics,Fall,100.61
+CUST1105,SpongeBob SquarePants,Male,31,UK,Lamp,Home Decor,Winter,245.23
+CUST1115,Goofy,Male,31,Australia,Lamp,Books,Fall,173.8
+CUST1010,Goofy,Male,32,USA,Mug,Electronics,Spring,43.95
+CUST1117,SpongeBob SquarePants,Male,32,Germany,Shirt,Clothing,Summer,300.43
+CUST1013,Mickey Mouse,Male,33,UK,Toy Car,Home Decor,Winter,227.21
+CUST1049,Johnny Bravo,Male,33,France,Toy Car,Electronics,Spring,60.11
+CUST1024,Bugs Bunny,Female,34,Japan,Tablet,Electronics,Winter,494.21
+CUST1033,Bart Simpson,Female,77,Australia,Toy Car,Electronics,Spring,272.7
+CUST1103,Lisa Simpson,Male,17,France,Phone,Books,Summer,473.99
+CUST1075,Fred Flintstone,Male,19,Australia,Book,Books,Spring,302.27
+CUST1038,Johnny Bravo,Male,20,Canada,Lamp,Books,Summer,107.24
+CUST1048,Goofy,Male,20,France,Mug,Toys,Spring,461.82
+CUST1114,Tom Cat,Female,20,Japan,Mug,Home Decor,Summer,382.04
+CUST1018,Donald Duck,Male,21,Japan,Mug,Home Decor,Winter,231.39
+CUST1056,Bart Simpson,Male,21,Germany,Book,Books,Fall,222.8
+CUST1069,Daffy Duck,Female,21,Japan,Book,Books,Summer,192.68
+CUST1028,Scooby-Doo,Male,22,Australia,Shirt,Home Decor,Winter,362.71
+CUST1046,Fred Flintstone,Female,22,France,Shirt,Books,Winter,398.65
+CUST1076,Stewie Griffin,Male,22,Canada,Lamp,Toys,Spring,374.35
+CUST1084,Bugs Bunny,Male,22,Australia,Book,Electronics,Winter,222.78
+CUST1011,Donald Duck,Female,24,Germany,Toy Car,Electronics,Spring,197.18
+CUST1030,Fred Flintstone,Male,24,UK,Toy Car,Toys,Fall,488.71
+CUST1036,Tom Cat,Male,24,UK,Tablet,Clothing,Spring,346.29
+CUST1104,Pikachu,Male,25,France,Phone,Clothing,Spring,197.21
+CUST1092,Bart Simpson,Male,26,UK,Toy Car,Toys,Winter,294.86
+CUST1119,Patrick Star,Male,26,France,Toy Car,Books,Spring,203.84
+CUST1014,Mickey Mouse,Male,27,Germany,Lamp,Books,Spring,294.8
+CUST1043,Mickey Mouse,Male,28,USA,Mug,Toys,Fall,99.84
+CUST1017,Mickey Mouse,Male,29,Germany,Phone,Toys,Summer,334.13
+CUST1044,Goofy,Male,29,USA,Book,Books,Fall,447.52
+CUST1029,Mickey Mouse,Male,30,France,Toy Car,Home Decor,Summer,424.58
+CUST1035,Scooby-Doo,Female,30,Germany,Phone,Home Decor,Fall,142.75
+CUST1070,Johnny Bravo,Male,31,Japan,Shirt,Clothing,Winter,450.67
+CUST1101,Daffy Duck,Male,31,Australia,Tablet,Home Decor,Summer,480.6
+CUST1002,Jerry Mouse,Male,32,Japan,Mug,Home Decor,Summer,462.31
+CUST1057,Daffy Duck,Male,32,Australia,Shirt,Home Decor,Spring,93.82
+CUST1062,Lisa Simpson,Male,33,Germany,Book,Toys,Fall,338.57
+CUST1096,Pikachu,Male,33,Japan,Mug,Toys,Summer,419.94
+CUST1039,SpongeBob SquarePants,Female,34,France,Mug,Toys,Spring,160.84
+CUST1047,Velma,Male,34,Japan,Phone,Electronics,Fall,364.74
+CUST1087,Daffy Duck,Male,34,USA,Mug,Toys,Fall,85.99
+CUST1112,Donald Duck,Female,34,France,Lamp,Electronics,Winter,474.99
+CUST1116,Scooby-Doo,Male,35,USA,Toy Car,Home Decor,Spring,387.14
+CUST1005,Mickey Mouse,Female,36,Canada,Shirt,Electronics,Winter,118.46
+CUST1107,Johnny Bravo,Male,36,UK,Shirt,Toys,Summer,250.84
+CUST1111,Homer Simpson,Male,36,UK,Book,Toys,Spring,278.13
+CUST1020,Patrick Star,Male,37,Japan,Lamp,Electronics,Fall,35.65
+CUST1040,Fred Flintstone,Male,37,Canada,Book,Toys,Summer,399.42
+CUST1074,Patrick Star,Male,37,France,Shirt,Books,Spring,191.66
+CUST1100,Patrick Star,Female,37,Germany,Lamp,Home Decor,Fall,414.49
+CUST1045,Shaggy,Male,38,Canada,Toy Car,Toys,Spring,430.82
+CUST1050,Velma,Female,38,USA,Mug,Books,Winter,226.01
+CUST1078,Scooby-Doo,Male,38,France,Book,Electronics,Winter,196.51
+CUST1094,Daffy Duck,Male,38,Japan,Lamp,Home Decor,Summer,483.14
+CUST1108,Pikachu,Female,38,Germany,Book,Toys,Summer,489.27
+CUST1008,Goofy,Male,39,Canada,Phone,Toys,Fall,487.47
+CUST1023,Ash Ketchum,Male,39,UK,Tablet,Clothing,Winter,360.26
+CUST1061,Patrick Star,Male,39,Australia,Book,Electronics,Winter,21.87
+CUST1042,SpongeBob SquarePants,Female,40,UK,Phone,Toys,Fall,199.81
+CUST1065,Goofy,Female,40,Canada,Phone,Home Decor,Winter,157.87
+CUST1095,Bart Simpson,Male,40,UK,Lamp,Toys,Spring,328.83
+CUST1097,Homer Simpson,Male,40,UK,Shirt,Books,Summer,338.64
+CUST1102,Mickey Mouse,Male,41,USA,Tablet,Electronics,Summer,450.38
+CUST1006,SpongeBob SquarePants,Male,42,Japan,Phone,Books,Summer,305.86
+CUST1073,Pikachu,Male,42,USA,Mug,Electronics,Spring,22.01
+CUST1082,Pikachu,Female,44,USA,Tablet,Books,Spring,229.9
+CUST1093,Homer Simpson,Female,44,Canada,Book,Electronics,Fall,489.5
+CUST1110,Ash Ketchum,Female,45,France,Phone,Electronics,Spring,237.12
+CUST1086,SpongeBob SquarePants,Male,46,Canada,Toy Car,Home Decor,Winter,349.69
+CUST1001,Velma,Male,47,Australia,Phone,Books,Spring,471.88
+CUST1085,Velma,Male,47,Canada,Mug,Home Decor,Spring,244.07
+CUST1089,Fred Flintstone,Female,47,UK,Toy Car,Clothing,Winter,470.85
+CUST1099,Ash Ketchum,Male,47,USA,Tablet,Electronics,Spring,345.18
+CUST1004,Patrick Star,Female,48,UK,Lamp,Home Decor,Fall,293.09
+CUST1060,Tom Cat,Male,48,Germany,Toy Car,Books,Summer,458.33
+CUST1118,Bugs Bunny,Male,48,Japan,Toy Car,Toys,Spring,418.06
+CUST1032,SpongeBob SquarePants,Male,51,USA,Shirt,Electronics,Spring,49.91
+CUST1037,Johnny Bravo,Male,51,UK,Phone,Electronics,Spring,249.53
+CUST1106,Johnny Bravo,Male,52,France,Mug,Home Decor,Summer,77.79
+CUST1041,Pikachu,Female,55,Australia,Mug,Clothing,Spring,214.15
+CUST1063,Donald Duck,Male,56,UK,Tablet,Books,Summer,298.33
+CUST1067,Bugs Bunny,Male,56,France,Toy Car,Books,Spring,384.88
+CUST1088,Pikachu,Female,56,France,Tablet,Books,Summer,295.19
+CUST1015,Tom Cat,Male,57,France,Phone,Books,Summer,222.68
+CUST1051,Bugs Bunny,Male,57,USA,Tablet,Home Decor,Fall,378.95
+CUST1059,Daffy Duck,Male,57,France,Mug,Toys,Fall,358.58
+CUST1066,Johnny Bravo,Female,57,UK,Shirt,Electronics,Summer,347.15
+CUST1081,Pikachu,Female,57,Canada,Shirt,Toys,Summer,251.94
+CUST1034,Stewie Griffin,Female,58,Australia,Toy Car,Clothing,Fall,357.75
+CUST1054,Goofy,Female,59,UK,Toy Car,Clothing,Fall,414.52
+CUST1052,Fred Flintstone,Female,60,France,Lamp,Books,Fall,139.26
+CUST1022,Fred Flintstone,Male,61,Australia,Phone,Clothing,Spring,52.1
+CUST1053,Lisa Simpson,Male,61,France,Lamp,Toys,Spring,86.18
+CUST1007,Goofy,Female,62,USA,Lamp,Home Decor,Spring,324.88
+CUST1012,Lisa Simpson,Male,62,Australia,Shirt,Home Decor,Fall,280.29
+CUST1021,Scooby-Doo,Female,62,UK,Book,Books,Winter,366.08
+CUST1090,Pikachu,Female,62,UK,Book,Books,Spring,242.07
+CUST1016,Tom Cat,Female,64,Japan,Lamp,Clothing,Summer,459.97
+CUST1025,Pikachu,Female,64,Germany,Lamp,Clothing,Summer,189.95
+CUST1031,Shaggy,Female,64,Canada,Phone,Home Decor,Spring,123.99
+CUST1080,Homer Simpson,Female,65,Australia,Lamp,Home Decor,Summer,70.92
+CUST1083,Pikachu,Female,65,France,Tablet,Books,Spring,25.09
+CUST1098,Tom Cat,Female,65,UK,Shirt,Clothing,Winter,108.69
+CUST1113,Bart Simpson,Male,65,Australia,Book,Home Decor,Summer,149.1
+CUST1019,Goofy,Male,66,Germany,Phone,Books,Winter,276.11
+CUST1027,Homer Simpson,Male,66,Japan,Shirt,Books,Spring,152.97
+CUST1064,Shaggy,Female,66,Germany,Book,Clothing,Summer,28.79
+CUST1091,Stewie Griffin,Male,66,UK,Toy Car,Clothing,Fall,125
+CUST1003,Patrick Star,Male,68,Germany,Phone,Toys,Summer,356.4
+CUST1026,Patrick Star,Female,68,Germany,Mug,Electronics,Fall,460.67
+CUST1079,Patrick Star,Male,68,USA,Mug,Toys,Summer,242.11
